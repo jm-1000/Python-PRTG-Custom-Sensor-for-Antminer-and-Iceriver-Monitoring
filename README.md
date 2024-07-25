@@ -104,7 +104,7 @@ If set to True, the script will only request monitoring data using the Windows e
 
 ## Installation
 
-1. Download the sensor files and put them in `C:\Program Files (x86)\PRTG Network Monitor\Custom Sensors\python` as the tree:
+1. [Download the sensor files](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fjm-1000%2FPython-PRTG-Custom-Sensor-for-Antminer-and-Iceriver-Miners%2Ftree%2Fmain%2Fcustom_sensor) and put them in `C:\Program Files (x86)\PRTG Network Monitor\Custom Sensors\python` as the tree:
 ```
  C:\P...\Custom Sensors\python\
                            custom_sensor_lib\
