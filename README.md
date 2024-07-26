@@ -12,7 +12,7 @@ This Python script creates a custom sensor for PRTG Network Monitor, allowing yo
    - If any issues arise during execution, the logs provide valuable insights for troubleshooting.
 
 4. **Test Units**:
-   - The script includes unit tests to verify its functionality.
+   - The script includes test units to verify its functionality.
 
 5. **Execution of Windows Executable**:
    - This approach allows seamless integration with existing monitoring script.
@@ -104,7 +104,7 @@ If set to True, the script will only request monitoring data using the Windows e
 
 ## Installation
 
-1. [Download the sensor files](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fjm-1000%2FPython-PRTG-Custom-Sensor-for-Antminer-and-Iceriver-Miners%2Ftree%2Fmain%2Fcustom_sensor) then extract and put them in `C:\Program Files (x86)\PRTG Network Monitor\Custom Sensors\python` as the tree:
+1. [Download the sensor files](https://github.com/jm-1000/Python-PRTG-Custom-Sensor-for-Antminer-and-Iceriver-Monitoring/releases/download/v1.2.0/prtg_custom_sensor.zip) then extract and put them in `C:\Program Files (x86)\PRTG Network Monitor\Custom Sensors\python` as the tree:
 ```
  C:\P...\Custom Sensors\python\
                            custom_sensor_lib\
