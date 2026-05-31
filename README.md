@@ -26,7 +26,7 @@ This Python script creates a custom sensor for PRTG Network Monitor, allowing yo
 ## Sensor Summary
     Version: 1.2.0 
     Language: PRTG Python 3.9.13
-    Author: Juari Marcolino (JM-1000)
+    Author: Juari (JM-1000)
     PRTG version: 24.2.96.1315+
     Dependency: paesslerag_prtg_sensor_api v1.0.2
 
